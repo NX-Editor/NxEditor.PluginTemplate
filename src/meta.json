@@ -2,5 +2,6 @@
   "Name": "NxEditor.PluginTemplate",
   "Description": "",
   "Assembly": "NxEditor.PluginTemplate.dll",
+  "IsEnabled": true,
   "GitHubRepoId": -1
 }
